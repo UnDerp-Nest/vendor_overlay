@@ -1,7 +1,8 @@
-# Files and fonts copy
-LOCAL_PATH := vendor/overlay/fonts
-PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,$(LOCAL_PATH)/etc,$(TARGET_COPY_OUT_PRODUCT)/etc)
-PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,$(LOCAL_PATH)/fonts,$(TARGET_COPY_OUT_PRODUCT)/fonts)
+# Fonts customization
+ ADDITIONAL_FONTS_FILE := vendor/overlay/fonts/fonts_customization.xml
+
+# Patch for fonts
+ LOCAL_PATH := vendor/overlay/fonts
 
 #Fonts
 PRODUCT_COPY_FILES += \
