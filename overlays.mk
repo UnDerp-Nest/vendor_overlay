@@ -21,5 +21,8 @@ PRODUCT_PACKAGES += \
 # Accents
 include vendor/overlay/accents.mk
 
+# Fonts
+include vendor/overlay/fonts.mk
+
 # Prebuilts
 $(call inherit-product-if-exists, vendor/prebuilts/packages.mk)
