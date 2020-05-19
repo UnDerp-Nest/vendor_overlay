@@ -57,33 +57,33 @@ PRODUCT_COPY_FILES += \
     vendor/overlay/fonts/GoogleSans-BoldItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-BoldItalic.ttf \
     vendor/overlay/fonts/GearTinkerbell.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GearTinkerbell.ttf \
     vendor/overlay/fonts/Anaheim-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Anaheim-Regular.ttf \
-    vendor/pixelstyle/fonts/fontage/BigNoodleTilting-Italic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/BigNoodleTilting-Italic.ttf \
-    vendor/pixelstyle/fonts/fontage/BigNoodleTilting-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/BigNoodleTilting-Regular.ttf \
-    vendor/pixelstyle/fonts/fontage/din1451alt.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/din1451alt.ttf \
-    vendor/pixelstyle/fonts/fontage/Hanken-Light.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Hanken-Light.ttf \
-    vendor/pixelstyle/fonts/fontage/ReemKufi-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/ReemKufi-Regular.ttf \
-    vendor/pixelstyle/fonts/fontage/ComicNeue-Bold.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/ComicNeue-Bold.ttf \
-    vendor/pixelstyle/fonts/fontage/ComicNeue-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/ComicNeue-Regular.ttf \
-    vendor/pixelstyle/fonts/fontage/Exo2-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Exo2-Regular.ttf \
-    vendor/pixelstyle/fonts/fontage/Exo2-SemiBold.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Exo2-SemiBold.ttf \
-    vendor/pixelstyle/fonts/fontage/Finlandica-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Finlandica-Regular.ttf \
-    vendor/pixelstyle/fonts/fontage/Goodlight.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Goodlight.ttf \
-    vendor/pixelstyle/fonts/fontage/Gravity-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Gravity-Regular.ttf \
-    vendor/pixelstyle/fonts/fontage/Inter-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Inter-Regular.ttf \
-    vendor/pixelstyle/fonts/fontage/Inter-MediumItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Inter-MediumItalic.ttf \
-    vendor/pixelstyle/fonts/fontage/LeagueMono-RegularNarrow.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/LeagueMono-RegularNarrow.ttf \
-    vendor/pixelstyle/fonts/fontage/LeagueMono-MediumNarrow.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/LeagueMono-MediumNarrow.ttf \
-    vendor/pixelstyle/fonts/fontage/LeagueMono-BoldNarrow.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/LeagueMono-BoldNarrow.ttf \
-    vendor/pixelstyle/fonts/fontage/LeagueMono-SemiBoldNarrow.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/LeagueMono-SemiBoldNarrow.ttf \
-    vendor/pixelstyle/fonts/fontage/LeonSans-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/LeonSans-Regular.ttf \
-    vendor/pixelstyle/fonts/fontage/mescla_regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/mescla_regular.ttf \
-    vendor/pixelstyle/fonts/fontage/OdibeeSans-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/OdibeeSans-Regular.ttf \
-    vendor/pixelstyle/fonts/fontage/Panamericana-Display.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Panamericana-Display.ttf \
-    vendor/pixelstyle/fonts/fontage/PTSans-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/PTSans-Regular.ttf \
-    vendor/pixelstyle/fonts/fontage/PTMono-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/PTMono-Regular.ttf \
-    vendor/pixelstyle/fonts/fontage/routed-gothic-narrow.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/routed-gothic-narrow.ttf \
-    vendor/pixelstyle/fonts/fontage/routed-gothic-narrow-half-italic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/routed-gothic-narrow-half-italic.ttf \
-    vendor/pixelstyle/fonts/fontage/SofiaSans-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SofiaSans-Regular.ttf \
-    vendor/pixelstyle/fonts/fontage/SofiaSans-Medium.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SofiaSans-Medium.ttf \
-    vendor/pixelstyle/fonts/fontage/SofiaSansSemiCond-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SofiaSansSemiCond-Regular.ttf \
-    vendor/pixelstyle/fonts/fontage/SofiaSansSemiCond-Medium.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SofiaSansSemiCond-Medium.ttf
+    vendor/overlay/fonts/fontage/BigNoodleTilting-Italic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/BigNoodleTilting-Italic.ttf \
+    vendor/overlay/fonts/fontage/BigNoodleTilting-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/BigNoodleTilting-Regular.ttf \
+    vendor/overlay/fonts/fontage/din1451alt.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/din1451alt.ttf \
+    vendor/overlay/fonts/fontage/Hanken-Light.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Hanken-Light.ttf \
+    vendor/overlay/fonts/fontage/ReemKufi-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/ReemKufi-Regular.ttf \
+    vendor/overlay/fonts/fontage/ComicNeue-Bold.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/ComicNeue-Bold.ttf \
+    vendor/overlay/fonts/fontage/ComicNeue-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/ComicNeue-Regular.ttf \
+    vendor/overlay/fonts/fontage/Exo2-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Exo2-Regular.ttf \
+    vendor/overlay/fonts/fontage/Exo2-SemiBold.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Exo2-SemiBold.ttf \
+    vendor/overlay/fonts/fontage/Finlandica-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Finlandica-Regular.ttf \
+    vendor/overlay/fonts/fontage/Goodlight.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Goodlight.ttf \
+    vendor/overlay/fonts/fontage/Gravity-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Gravity-Regular.ttf \
+    vendor/overlay/fonts/fontage/Inter-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Inter-Regular.ttf \
+    vendor/overlay/fonts/fontage/Inter-MediumItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Inter-MediumItalic.ttf \
+    vendor/overlay/fonts/fontage/LeagueMono-RegularNarrow.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/LeagueMono-RegularNarrow.ttf \
+    vendor/overlay/fonts/fontage/LeagueMono-MediumNarrow.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/LeagueMono-MediumNarrow.ttf \
+    vendor/overlay/fonts/fontage/LeagueMono-BoldNarrow.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/LeagueMono-BoldNarrow.ttf \
+    vendor/overlay/fonts/fontage/LeagueMono-SemiBoldNarrow.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/LeagueMono-SemiBoldNarrow.ttf \
+    vendor/overlay/fonts/fontage/LeonSans-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/LeonSans-Regular.ttf \
+    vendor/overlay/fonts/fontage/mescla_regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/mescla_regular.ttf \
+    vendor/overlay/fonts/fontage/OdibeeSans-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/OdibeeSans-Regular.ttf \
+    vendor/overlay/fonts/fontage/Panamericana-Display.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Panamericana-Display.ttf \
+    vendor/overlay/fonts/fontage/PTSans-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/PTSans-Regular.ttf \
+    vendor/overlay/fonts/fontage/PTMono-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/PTMono-Regular.ttf \
+    vendor/overlay/fonts/fontage/routed-gothic-narrow.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/routed-gothic-narrow.ttf \
+    vendor/overlay/fonts/fontage/routed-gothic-narrow-half-italic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/routed-gothic-narrow-half-italic.ttf \
+    vendor/overlay/fonts/fontage/SofiaSans-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SofiaSans-Regular.ttf \
+    vendor/overlay/fonts/fontage/SofiaSans-Medium.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SofiaSans-Medium.ttf \
+    vendor/overlay/fonts/fontage/SofiaSansSemiCond-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SofiaSansSemiCond-Regular.ttf \
+    vendor/overlay/fonts/fontage/SofiaSansSemiCond-Medium.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SofiaSansSemiCond-Medium.ttf
