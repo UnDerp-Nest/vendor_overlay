@@ -34,5 +34,8 @@ include vendor/overlay/fonts.mk
 # Sounds
 include vendor/overlay/sounds.mk
 
+# Bootanimation
+include vendor/overlay/bootanimation.mk
+
 # Prebuilts
 $(call inherit-product-if-exists, vendor/prebuilts/packages.mk)
