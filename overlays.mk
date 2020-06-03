@@ -16,7 +16,9 @@ PRODUCT_PACKAGES += \
     PrimaryFlameOverlay \
     PrimaryColorOneplusDarkOverlay \
     EmptyOverlay \
-    MatchmakerOverlay
+    MatchmakerOverlay \
+    NexusWallpapersStubPrebuilt2019Static \
+    OPScreenRecorder
 
 # NavigationBar Gestural Mode No Pill Overlays
 PRODUCT_PACKAGES += \
