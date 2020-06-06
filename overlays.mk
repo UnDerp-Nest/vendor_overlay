@@ -18,7 +18,8 @@ PRODUCT_PACKAGES += \
     EmptyOverlay \
     MatchmakerOverlay \
     NexusWallpapersStubPrebuilt2019Static \
-    OPScreenRecorder
+    OPScreenRecorder \
+    MatchmakerPrebuiltPixel4
 
 # NavigationBar Gestural Mode No Pill Overlays
 PRODUCT_PACKAGES += \
